@@ -3,7 +3,6 @@
 #include <iostream>
 #include "spdlog/spdlog.h"
 #include <iomanip>
-
 #include <variant>
 #include <limits>
 #include <optional>
