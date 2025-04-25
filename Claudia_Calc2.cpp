@@ -45,6 +45,7 @@ void print_registers(Calculator & calc) {
 }
 
 void print_menu(Calculator & calc) {
+    print_line();
     print_title("ClaudiaCalc");
     print_line();
     print_registers(calc);
